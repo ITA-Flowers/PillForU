@@ -44,6 +44,12 @@ We created a platform and a device which can help. You just simply put the presc
 
 Just one button nothing is simple as that.
 
+### Technology
+
+#### Mobile / Web App: **Flutter**
+#### API: **Python Flask**
+#### Device Software: **Python**
+
 ___
 
 > [^event]: Event
