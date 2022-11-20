@@ -38,7 +38,12 @@ Now you can show how IoT can make our lives easier.
 
 ## Project[^prj]
 
-...
+We create app for care takers of disabled people, old ones and for people who can't remember about their medicines. If you ever forgot to take pills think about people disabled and old. Everyone may forget about their medicines and we are here to help. 
+
+We created a platform and a device which can help. You just simply put the prescription into the app and our application will notify when to take it and you just go to device and it gives you right ammount of each drug. It's even more important for old people and disabled. They can now be safe and care takers won't have a lot of work. you just put information about medicines and app will help your pupils to remember to go to device and take right ammount of drugs. 
+
+Just one button nothing is simple as that.
+
 ___
 
 > [^event]: Event
